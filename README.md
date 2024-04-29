@@ -17,6 +17,10 @@ Let's grow!
     <img alt="discord" src="https://img.shields.io/badge/discord-black__hammer-blue?style=flat-square&logo=discord"></a><br>
 <a href="https://steamcommunity.com/profiles/76561198101911437/">
     <img alt="steam" src="https://img.shields.io/badge/Steam-StrykerBear-blue?style=flat-square&logo=steam"></a><br>
+<a href="https://t.me/MishaKhmaruk">
+    <img alt="Telegram" src="https://img.shields.io/badge/telegram-MishaKhmaruk-blue?style=flat-squarelogo=telegram"></a><br>
+<a href="https://join.skype.com/invite/iBvpsj26HOtw">
+    <img alt="Telegram" src="https://img.shields.io/badge/skype-MishaKhmaruk-blue?style=flat-squarelogo=skype"></a><br>
 </p>
 # MykhailoKhmaruk
 <!--
